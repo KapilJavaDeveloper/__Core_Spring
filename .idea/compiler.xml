@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="03_3_Constructor_Dependency_Injection" />
         <module name="01_ApplicationContext" />
         <module name="02_Application_Context" />
         <module name="03_2_Constructor_Dependency_Injection" />
