@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/03_2_Constructor_Dependency_Injection/pom.xml" />
         <option value="$PROJECT_DIR$/03_3_Constructor_Dependency_Injection/pom.xml" />
         <option value="$PROJECT_DIR$/04_Point_Of_Triangles/pom.xml" />
+        <option value="$PROJECT_DIR$/05_Inner_Bean/pom.xml" />
+        <option value="$PROJECT_DIR$/05_inner_beans_alias/pom.xml" />
       </list>
     </option>
   </component>

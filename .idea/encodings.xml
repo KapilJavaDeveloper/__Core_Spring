@@ -13,5 +13,9 @@
     <file url="file://$PROJECT_DIR$/03_3_Constructor_Dependency_Injection/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04_Point_Of_Triangles/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04_Point_Of_Triangles/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_Inner_Bean_Alias/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_Inner_Bean_Alias/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_inner_beans_alias/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_inner_beans_alias/src/main/resources" charset="UTF-8" />
   </component>
 </project>
