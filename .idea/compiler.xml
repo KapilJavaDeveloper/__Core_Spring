@@ -12,6 +12,7 @@
         <module name="02_Application_Context" />
         <module name="03_2_Constructor_Dependency_Injection" />
         <module name="03_1_Constructor_Dependency_Injection" />
+        <module name="07_02_Autowire_ByType" />
         <module name="07_Autowiring_ByName" />
         <module name="06_Collections_In_Core_Spring" />
         <module name="01_ApplicationContext" />

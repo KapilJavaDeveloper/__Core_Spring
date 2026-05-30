@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/06_Collections_In_Core_Spring/pom.xml" />
         <option value="$PROJECT_DIR$/06_1_Autowire_ByName/pom.xml" />
         <option value="$PROJECT_DIR$/07_Autowiring_ByName/pom.xml" />
+        <option value="$PROJECT_DIR$/07_02_Autowire_ByType/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
