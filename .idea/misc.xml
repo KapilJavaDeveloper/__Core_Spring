@@ -13,7 +13,14 @@
         <option value="$PROJECT_DIR$/05_Inner_Bean/pom.xml" />
         <option value="$PROJECT_DIR$/05_inner_beans_alias/pom.xml" />
         <option value="$PROJECT_DIR$/06_Collections_In_Core_Spring/pom.xml" />
+        <option value="$PROJECT_DIR$/06_1_Autowire_ByName/pom.xml" />
+        <option value="$PROJECT_DIR$/07_Autowiring_ByName/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/06_1_Autowire_ByName/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_24" default="true" project-jdk-name="24" project-jdk-type="JavaSDK">

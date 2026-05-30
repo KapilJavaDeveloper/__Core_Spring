@@ -6,21 +6,13 @@
        http://www.springframework.org/schema/beans
         http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="triangle" class="org.example.Triangle">
-        <property name="points">
-            <list>
-                <ref bean="pointA"/>
-                <ref bean="pointB"/>
-                <ref bean="pointC"/>
-            </list>
-        </property>
-
-    </bean>
+    <bean id="triangle" class="org.example.Triangle" autowire="byName"/>
 
     <bean id="pointA" class="org.example.Point">
         <property name="X" value="1"/>
         <property name="Y" value="1"/>
     </bean>
+
 
     <bean id="pointB" class="org.example.Point">
         <property name="X" value="2"/>
@@ -31,6 +23,8 @@
         <property name="X" value="3"/>
         <property name="Y" value="3"/>
     </bean>
+
+
 
 
 
