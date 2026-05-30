@@ -23,6 +23,8 @@
     <file url="file://$PROJECT_DIR$/06_Collections_In_Core_Spring/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07_02_Autowire_ByType/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07_02_Autowire_ByType/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_03_Autowire_ByConstructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_03_Autowire_ByConstructor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07_Autowiring_ByName/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07_Autowiring_ByName/src/main/resources" charset="UTF-8" />
   </component>
