@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/07_Autowiring_ByName/pom.xml" />
         <option value="$PROJECT_DIR$/07_02_Autowire_ByType/pom.xml" />
         <option value="$PROJECT_DIR$/07_03_Autowire_ByConstructor/pom.xml" />
+        <option value="$PROJECT_DIR$/08_Bean_Scopes/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

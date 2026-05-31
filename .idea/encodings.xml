@@ -27,5 +27,7 @@
     <file url="file://$PROJECT_DIR$/07_03_Autowire_ByConstructor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07_Autowiring_ByName/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07_Autowiring_ByName/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08_Bean_Scopes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08_Bean_Scopes/src/main/resources" charset="UTF-8" />
   </component>
 </project>
