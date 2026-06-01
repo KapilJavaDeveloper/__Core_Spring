@@ -7,22 +7,23 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="05_inner_beans_alias" />
+        <module name="02_Application_Context" />
+        <module name="07_Autowiring_ByName" />
+        <module name="01_ApplicationContext" />
         <module name="04_Point_Of_Triangles" />
         <module name="08_Bean_Scopes" />
         <module name="03_3_Constructor_Dependency_Injection" />
-        <module name="02_Application_Context" />
         <module name="03_2_Constructor_Dependency_Injection" />
         <module name="03_1_Constructor_Dependency_Injection" />
         <module name="07_03_Autowire_ByConstructor" />
         <module name="07_02_Autowire_ByType" />
-        <module name="07_Autowiring_ByName" />
         <module name="06_Collections_In_Core_Spring" />
-        <module name="01_ApplicationContext" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="05_Inner_Bean_Alias" target="24" />
       <module name="06_1_Autowire_ByName" target="24" />
+      <module name="09_ApplicationContextAware_BeanNameAware" target="24" />
     </bytecodeTargetLevel>
   </component>
 </project>
