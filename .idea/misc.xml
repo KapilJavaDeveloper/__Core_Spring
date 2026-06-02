@@ -19,6 +19,7 @@
         <option value="$PROJECT_DIR$/07_03_Autowire_ByConstructor/pom.xml" />
         <option value="$PROJECT_DIR$/08_Bean_Scopes/pom.xml" />
         <option value="$PROJECT_DIR$/ApplicationContextAware_BeanNameAware/pom.xml" />
+        <option value="$PROJECT_DIR$/10_Bean_Defination_Inheritance/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
