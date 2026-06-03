@@ -33,6 +33,10 @@
     <file url="file://$PROJECT_DIR$/09_ApplicationContextAware_BeanNameAware/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/10_Bean_Defination_Inheritance/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/10_Bean_Defination_Inheritance/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11_1_LifeCycle_Of_Bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11_1_LifeCycle_Of_Bean/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11_2_LifeCycle_Of_Bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11_2_LifeCycle_Of_Bean/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/11_LifeCycle_Of_Bean/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/11_LifeCycle_Of_Bean/src/main/resources" charset="UTF-8" />
   </component>
