@@ -10,6 +10,7 @@
         <module name="02_Application_Context" />
         <module name="10_Bean_Defination_Inheritance" />
         <module name="07_Autowiring_ByName" />
+        <module name="12_BeanPost_Processor" />
         <module name="01_ApplicationContext" />
         <module name="11_2_LifeCycle_Of_Bean" />
         <module name="04_Point_Of_Triangles" />
