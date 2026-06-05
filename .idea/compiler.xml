@@ -21,6 +21,7 @@
         <module name="07_03_Autowire_ByConstructor" />
         <module name="07_02_Autowire_ByType" />
         <module name="06_Collections_In_Core_Spring" />
+        <module name="13_Bean_Factory_Post_Processor" />
         <module name="11_LifeCycle_Of_Bean" />
       </profile>
     </annotationProcessing>
