@@ -11,13 +11,11 @@
         <property name="pointB" ref="pointB"/>
         <property name="pointC" ref="pointC"/>
 
-
-
     </bean>
 
     <bean id="pointA" class="org.example.Point">
-        <property name="X" value="${pointA.pointX}"/>
-        <property name="Y" value="${pointA.pointY}"/>
+        <property name="X" value="1"/>
+        <property name="Y" value="1"/>
 
     </bean>
 
@@ -31,14 +29,13 @@
         <property name="Y" value="3"/>
     </bean>
 
-    <bean class="org.example.Bean_Factory_Post_Processor"/>
-    <bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
-        <property name="locations" value="pointsconfig.properties"/>
-    </bean>
-
     <bean id="circle" class="org.example.Circle">
         <property name="point" ref="pointA"/>
+
     </bean>
+
+
+
 
 
 

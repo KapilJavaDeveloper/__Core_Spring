@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="05_inner_beans_alias" />
+        <module name="14_interface_in_core_spring" />
         <module name="02_Application_Context" />
         <module name="10_Bean_Defination_Inheritance" />
         <module name="07_Autowiring_ByName" />

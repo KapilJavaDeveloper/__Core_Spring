@@ -43,5 +43,7 @@
     <file url="file://$PROJECT_DIR$/12_BeanPost_Processor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/13_Bean_Factory_Post_Processor/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/13_Bean_Factory_Post_Processor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14_interface_in_core_spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14_interface_in_core_spring/src/main/resources" charset="UTF-8" />
   </component>
 </project>
