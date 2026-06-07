@@ -7,7 +7,6 @@ public class Circle implements Shape{
     private Point point ;
 
     // setter
-
     @Required
     public void setPoint(Point point){
         this.point = point ;
