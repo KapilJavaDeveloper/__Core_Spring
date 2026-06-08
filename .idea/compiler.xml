@@ -20,6 +20,7 @@
         <module name="03_3_Constructor_Dependency_Injection" />
         <module name="03_2_Constructor_Dependency_Injection" />
         <module name="03_1_Constructor_Dependency_Injection" />
+        <module name="16_Autowire_Annotation" />
         <module name="07_03_Autowire_ByConstructor" />
         <module name="07_02_Autowire_ByType" />
         <module name="06_Collections_In_Core_Spring" />

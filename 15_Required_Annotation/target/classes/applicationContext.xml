@@ -7,7 +7,7 @@
         http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
-<!--    <bean class="org.springframework.bean.factory.annotation.RequiredAnnotationBeanPostProcessor"/>-->
+    <bean class="org.springframework.bean.factory.annotation.RequiredAnnotationBeanPostProcessor"/>
 
     <bean id="circle" class="org.example.Circle">
 
@@ -18,7 +18,7 @@
         <property name="Y" value="1"/>
     </bean>
 
-    <bean class="org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor"/>
+<!--    <bean class="org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor"/>-->
 
 
 
