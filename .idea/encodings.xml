@@ -49,5 +49,7 @@
     <file url="file://$PROJECT_DIR$/15_Required_Annotation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/16_Autowire_Annotation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/16_Autowire_Annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/17_JSR_Annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/17_JSR_Annotation/src/main/resources" charset="UTF-8" />
   </component>
 </project>

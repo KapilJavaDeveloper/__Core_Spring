@@ -28,6 +28,7 @@
         <option value="$PROJECT_DIR$/14_interface_in_core_spring/pom.xml" />
         <option value="$PROJECT_DIR$/15_Required_Annotation/pom.xml" />
         <option value="$PROJECT_DIR$/16_Autowire_Annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/17_JSR_Annotation/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
