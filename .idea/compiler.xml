@@ -19,6 +19,7 @@
         <module name="08_Bean_Scopes" />
         <module name="03_3_Constructor_Dependency_Injection" />
         <module name="03_2_Constructor_Dependency_Injection" />
+        <module name="18_Component_Annotation" />
         <module name="03_1_Constructor_Dependency_Injection" />
         <module name="16_Autowire_Annotation" />
         <module name="07_03_Autowire_ByConstructor" />
