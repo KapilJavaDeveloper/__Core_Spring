@@ -53,5 +53,7 @@
     <file url="file://$PROJECT_DIR$/17_JSR_Annotation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/18_Component_Annotation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/18_Component_Annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/19_ApplicationContext_Functionality/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/19_ApplicationContext_Functionality/src/main/resources" charset="UTF-8" />
   </component>
 </project>

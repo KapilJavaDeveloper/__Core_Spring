@@ -31,6 +31,7 @@
         <option value="$PROJECT_DIR$/17_JSR_Annotation/pom.xml" />
         <option value="$PROJECT_DIR$/Component_Annotation/pom.xml" />
         <option value="$PROJECT_DIR$/18_Component_Annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/19_ApplicationContext_Functionality/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
