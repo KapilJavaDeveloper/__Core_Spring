@@ -32,6 +32,7 @@
         <option value="$PROJECT_DIR$/Component_Annotation/pom.xml" />
         <option value="$PROJECT_DIR$/18_Component_Annotation/pom.xml" />
         <option value="$PROJECT_DIR$/19_ApplicationContext_Functionality/pom.xml" />
+        <option value="$PROJECT_DIR$/20_Event_Handling/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
